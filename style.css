@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(rgb(204, 135, 135), rgb(70, 114, 104), rgba(255, 0, 0, 0.233));
+}
+
+#bolo {
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: solid rgb(98, 223, 165);
+}
+
+div {
+    font-size: 15px;
+    text-align: initial;
+}
